@@ -32,7 +32,7 @@ A Power BI dashboard was created to visualize key insights and trends, enabling 
 
 The Power BI dashboard enhances data comprehension and supports decision-making by allowing stakeholders to interact with the data.
 
-![Power BI Dashboard Overview]([https://github.com/Sushiiel/Global-Electronics-Dealer-Analysis/blob/main/Global-Electronis-Dealer-Dashboard.png?raw=true))
+![Power BI Dashboard Overview](https://github.com/Sushiiel/Global-Electronics-Dealer-Analysis/blob/main/Global-Electronis-Dealer-Dashboard.png)
 ## Requirements
 
 - Python 3.x
